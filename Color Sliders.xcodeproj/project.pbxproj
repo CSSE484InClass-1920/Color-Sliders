@@ -13,6 +13,7 @@
 		FDC57754241911E300E8618A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDC57752241911E300E8618A /* Main.storyboard */; };
 		FDC57756241911E400E8618A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDC57755241911E400E8618A /* Assets.xcassets */; };
 		FDC57759241911E400E8618A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDC57757241911E400E8618A /* LaunchScreen.storyboard */; };
+		FDC577612419133C00E8618A /* SlidersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC577602419133C00E8618A /* SlidersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FDC57755241911E400E8618A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDC57758241911E400E8618A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDC5775A241911E400E8618A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDC577602419133C00E8618A /* SlidersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidersViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FDC57755241911E400E8618A /* Assets.xcassets */,
 				FDC57757241911E400E8618A /* LaunchScreen.storyboard */,
 				FDC5775A241911E400E8618A /* Info.plist */,
+				FDC577602419133C00E8618A /* SlidersViewController.swift */,
 			);
 			path = "Color Sliders";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				FDC57751241911E300E8618A /* ViewController.swift in Sources */,
 				FDC5774D241911E300E8618A /* AppDelegate.swift in Sources */,
 				FDC5774F241911E300E8618A /* SceneDelegate.swift in Sources */,
+				FDC577612419133C00E8618A /* SlidersViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
