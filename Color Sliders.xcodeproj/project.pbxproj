@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD802DA72423D94900D86EB4 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD802DA42423D94900D86EB4 /* Icon@2x.png */; };
+		FD802DA82423D94900D86EB4 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = FD802DA52423D94900D86EB4 /* Icon-72.png */; };
+		FD802DA92423D94900D86EB4 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FD802DA62423D94900D86EB4 /* Icon.png */; };
 		FDC5774D241911E300E8618A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC5774C241911E300E8618A /* AppDelegate.swift */; };
 		FDC5774F241911E300E8618A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC5774E241911E300E8618A /* SceneDelegate.swift */; };
 		FDC57751241911E300E8618A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC57750241911E300E8618A /* ViewController.swift */; };
@@ -17,6 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD802DA42423D94900D86EB4 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		FD802DA52423D94900D86EB4 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		FD802DA62423D94900D86EB4 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		FDC57749241911E300E8618A /* Color Sliders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Color Sliders.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC5774C241911E300E8618A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDC5774E241911E300E8618A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +64,9 @@
 		FDC5774B241911E300E8618A /* Color Sliders */ = {
 			isa = PBXGroup;
 			children = (
+				FD802DA52423D94900D86EB4 /* Icon-72.png */,
+				FD802DA62423D94900D86EB4 /* Icon.png */,
+				FD802DA42423D94900D86EB4 /* Icon@2x.png */,
 				FDC5774C241911E300E8618A /* AppDelegate.swift */,
 				FDC5774E241911E300E8618A /* SceneDelegate.swift */,
 				FDC57750241911E300E8618A /* ViewController.swift */,
@@ -128,7 +137,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD802DA92423D94900D86EB4 /* Icon.png in Resources */,
 				FDC57759241911E400E8618A /* LaunchScreen.storyboard in Resources */,
+				FD802DA82423D94900D86EB4 /* Icon-72.png in Resources */,
+				FD802DA72423D94900D86EB4 /* Icon@2x.png in Resources */,
 				FDC57756241911E400E8618A /* Assets.xcassets in Resources */,
 				FDC57754241911E300E8618A /* Main.storyboard in Resources */,
 			);
